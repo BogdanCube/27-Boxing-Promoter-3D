@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e1d73ea63b47440389e9f0954c269e3, type: 3}
+  m_Name: Fighting Data
+  m_EditorClassIdentifier: 
+  _templates:
+  - _attackClip: {fileID: 7400000, guid: 2c76fc83ea7db4024ad930527985843e, type: 2}
+    _hitDelay: 0.2
+    _hitClip: {fileID: 7400000, guid: baf83ddb6bf3f4e27ba261a66de88335, type: 2}
+    _attackDelay: 0.95
+  - _attackClip: {fileID: 7400000, guid: 55653a6fae55d4df4afec2179e3aa4cf, type: 2}
+    _hitDelay: 0.15
+    _hitClip: {fileID: 7400000, guid: 44ccee93b79d84a9e862815ff8fbdcfc, type: 2}
+    _attackDelay: 0.6
+  - _attackClip: {fileID: 7400000, guid: e750adfd5e6ec47bea846a9e287ad779, type: 2}
+    _hitDelay: 0.2
+    _hitClip: {fileID: 7400000, guid: dffb9d1e4f10149ffb6ca208933f7b40, type: 2}
+    _attackDelay: 1
+  - _attackClip: {fileID: 7400000, guid: 97970b1e617ce4ac1be0f579f89a5cba, type: 2}
+    _hitDelay: 0.5
+    _hitClip: {fileID: 7400000, guid: f3a259211f4974d4cb5a543243c32bab, type: 2}
+    _attackDelay: 0.95
+  - _attackClip: {fileID: 7400000, guid: 57ba1ea3f882c4c3782dc181694c3b10, type: 2}
+    _hitDelay: 0.1
+    _hitClip: {fileID: 7400000, guid: 44ccee93b79d84a9e862815ff8fbdcfc, type: 2}
+    _attackDelay: 0.8

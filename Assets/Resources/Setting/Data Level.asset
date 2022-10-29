@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcf21a51ea44eaf9d817492eccbac1f, type: 3}
+  m_Name: Data Level
+  m_EditorClassIdentifier: 
+  _templates:
+  - _color: {r: 0.8862745, g: 0.8862745, b: 0.8862745, a: 1}
+    _fatAmount: 4
+    _trainingClip: {fileID: 7400000, guid: 2d4af849854834a89ae3458e1dd51a8f, type: 2}
+    _health: 5
+    _damage: 2
+  - _color: {r: 0.36078432, g: 0.7764706, b: 0.92156863, a: 1}
+    _fatAmount: 0
+    _trainingClip: {fileID: 7400000, guid: 326fc6148463540d7aa96a37e2771191, type: 2}
+    _health: 7
+    _damage: 3
+  - _color: {r: 0.69803923, g: 0.38039216, b: 0.92156863, a: 1}
+    _fatAmount: 1
+    _trainingClip: {fileID: 7400000, guid: 24352c89b5bd247bb9e2dc764e91887e, type: 2}
+    _health: 10
+    _damage: 4
+  - _color: {r: 0.9607843, g: 0.9411765, b: 0.45490196, a: 1}
+    _fatAmount: 2
+    _trainingClip: {fileID: 7400000, guid: 6546566a0fb9f4d579f3ddd90d1e5691, type: 2}
+    _health: 13
+    _damage: 5
+  - _color: {r: 0.9098039, g: 0.34117648, b: 0.44313726, a: 1}
+    _fatAmount: 3
+    _trainingClip: {fileID: 7400000, guid: 06673cb5ce0064306b0676c876ba2cc5, type: 2}
+    _health: 16
+    _damage: 6
+  - _color: {r: 0.8862745, g: 0.8862745, b: 0.8862745, a: 1}
+    _fatAmount: 4
+    _trainingClip: {fileID: 7400000, guid: 185336baa2f9f4b3792fc7978377da94, type: 2}
+    _health: 19
+    _damage: 7
+  - _color: {r: 0.8862745, g: 0.8862745, b: 0.8862745, a: 1}
+    _fatAmount: 5
+    _trainingClip: {fileID: 7400000, guid: 06673cb5ce0064306b0676c876ba2cc5, type: 2}
+    _health: 22
+    _damage: 8
+  - _color: {r: 0.8862745, g: 0.8862745, b: 0.8862745, a: 1}
+    _fatAmount: 6
+    _trainingClip: {fileID: 7400000, guid: 06673cb5ce0064306b0676c876ba2cc5, type: 2}
+    _health: 25
+    _damage: 9
